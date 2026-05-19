@@ -1,16 +1,29 @@
-## Hi there 👋
+## Hey, I'm sharanya 👾
 
-<!--
-**sharanya-builds/sharanya-builds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+b.tech cse (ai/ml) @ avniet, class of '29
 
-Here are some ideas to get you started:
+building toward a career in AI/ML, one commit at a time.
+also into graphic design, creative coding, and making things look good.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## currently
+-  learning python, c (dsa), and the math behind ml
+-  AI/ML fundamentals
+
+---
+
+## Building:
+- Small projects
+- CS50 exercises
+- Web experiments
+
+---
+
+## interests
+ai/ml | graphic design | creative coding | building cool stuff
+
+---
+
+*currently a student. always building.*
+
