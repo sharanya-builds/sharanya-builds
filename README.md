@@ -15,7 +15,6 @@ also into graphic design, creative coding, and making things look good.
 
 ## Building:
 - Small projects
-- CS50 exercises
 - Web experiments
 
 ---
